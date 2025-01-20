@@ -17,13 +17,14 @@ A few resources to get you started if this is your first Flutter project:
 
   ## Obstacle Detection: Alerts for nearby objects to prevent collisions.
 
-- ![WhatsApp Image 2025-01-20 at 22 29 51_eda6016e](https://github.com/user-attachments/assets/94d3806c-7f41-431e-9bee-881055052df3)
+- ![WhatsApp Image 2025-01-20 at 22 29 28_6468788d](https://github.com/user-attachments/assets/b3e0f694-247f-4141-9fa8-1824813ad2d8)
 
 
   ## Auto-Parking Mode: Hands-free parking in supported vehicles.
 
-  
-- ![WhatsApp Image 2025-01-20 at 22 29 28_6468788d](https://github.com/user-attachments/assets/b3e0f694-247f-4141-9fa8-1824813ad2d8)
+
+  - ![WhatsApp Image 2025-01-20 at 22 29 51_eda6016e](https://github.com/user-attachments/assets/94d3806c-7f41-431e-9bee-881055052df3)
+
 
 ## Space Finder: Locate available parking spots nearby.
 

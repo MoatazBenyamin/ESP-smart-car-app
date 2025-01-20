@@ -1,16 +1,15 @@
-# flutter_application_1
+# ESP smart car app
 
-A new Flutter project.
+An innovative smart car app designed exclusively for effortless parking. With advanced ESP technology, it simplifies parking, ensuring safety and precision.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## used in app 
+- flutter
+- mvc arc
+- firebase
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Smart Parking Assistance: Real-time guidance for accurate and safe parking.
+- Obstacle Detection: Alerts for nearby objects to prevent collisions.
+- Auto-Parking Mode: Hands-free parking in supported vehicles.
+- Space Finder: Locate available parking spots nearby.

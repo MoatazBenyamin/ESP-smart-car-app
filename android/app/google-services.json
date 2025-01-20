@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "622279477281",
+    "firebase_url": "https://esp-fire-ca2be-default-rtdb.firebaseio.com",
+    "project_id": "esp-fire-ca2be",
+    "storage_bucket": "esp-fire-ca2be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622279477281:android:71ac97e568113f62397b60",
+        "android_client_info": {
+          "package_name": "com.esp_smart_car.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuELK3EHg_5PC3Ytzm1e-nE0i6SDifQTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622279477281:android:b3a693edf78bf388397b60",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuELK3EHg_5PC3Ytzm1e-nE0i6SDifQTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

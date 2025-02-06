@@ -7,7 +7,6 @@ An innovative smart car app designed exclusively for effortless parking. With ad
 - mvc arc
 - firebase
 
-A few resources to get you started if this is your first Flutter project:
 
 ## Smart Parking Assistance: Real-time guidance for accurate and safe parking.
 
